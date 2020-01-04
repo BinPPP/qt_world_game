@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/loss.png</file>
+        <file>icons/trophy.png</file>
+        <file>icons/player.png</file>
+        <file>icons/pEnemy.png</file>
+        <file>icons/normalEnemy.png</file>
+        <file>icons/healthPack.png</file>
+        <file>icons/erEnemy.png</file>
+        <file>icons/fire.png</file>
+    </qresource>
+</RCC>
